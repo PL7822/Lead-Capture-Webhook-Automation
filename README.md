@@ -1,3 +1,4 @@
+![Lead-Capture-Webhook-Automation](Workflow.png)
 # 🚀 Lead Management Automation using n8n
 
 A beginner-friendly **Lead Management Automation** workflow built using **n8n, Webhooks, Conditional Logic, and Google Sheets**.
