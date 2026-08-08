@@ -1,3 +1,4 @@
+## 📸 Workflow Preview
 ![Lead-Capture-Webhook-Automation](Workflow.png)
 # 🚀 Lead Management Automation using n8n
 
